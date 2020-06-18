@@ -165,7 +165,6 @@ C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\bin\Microsof
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.Migrations.InitialModel.resources
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.Migrations.CreateTableCourse.resources
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.Migrations.CreateTableCourse1.resources
@@ -174,3 +173,4 @@ C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xu
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.csproj.GenerateResource.Cache
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.dll
 C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.pdb
+C:\Users\Administrator\Source\Repos\xuanthoailab456\xuanthoailab456\obj\Debug\xuanthoailab456.Migrations.AddNameColumnToApplicationUser.resources

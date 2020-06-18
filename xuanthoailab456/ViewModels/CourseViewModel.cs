@@ -17,6 +17,7 @@ namespace xuanthoailab456.ViewModels
         [Required]
         [ValidTime]
         public string Time { get; set; }
+        [Required]
         public byte Category { get; set; }
         public IEnumerable<Category> Categories { get; set; }
         public DateTime GetDateTime()
